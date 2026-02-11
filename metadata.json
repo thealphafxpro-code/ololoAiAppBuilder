@@ -1,0 +1,5 @@
+{
+  "name": "3 AI Website Builder",
+  "description": "A powerful AI-driven website generator that creates raw HTML/CSS/JS based on user prompts, featuring local storage persistence, code preview, and OpenRouter integration.",
+  "requestFramePermissions": []
+}
